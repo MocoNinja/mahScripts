@@ -18,8 +18,8 @@ echo "WELCOME TO MY SCRIPT..."
 line
 line
 echo "KILLING SELINUX..."
-sed -i 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/sysconfig/selinux
-sed -i 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/selinux/config
+sudo sed -i 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/sysconfig/selinux
+sudo sed -i 's/SELINUX=enforcing/SELINUX=disabled/g' /etc/selinux/config
 line
 echo "UPDATING THE SYSTEM..."
 sudo yum update -y
