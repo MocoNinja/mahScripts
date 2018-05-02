@@ -34,5 +34,10 @@ line
 echo "ENABLING DOCKER SERVICE..."
 sudo systemctl enable docker
 line
+echo "INSTALLING DOCKER COMPOSE..."
+sudo curl -L https://github.com/docker/compose/releases/download/1.21.0/docker-compose-$(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+sudo cp /usr/local/bin/docker-compose /bin/docker-compose
+line
 echo "DO NOT FORGET TO REBOOT!!!"
 line
