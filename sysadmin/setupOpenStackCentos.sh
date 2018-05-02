@@ -27,5 +27,8 @@ line
 echo "INSTALLING PACKAGES..."
 sudo yum install -y vim docker htop git git-all golang java-1.8.0-openjdk groovy maven https curl mariadb-server mariadb php php-mysql
 line
+echo "ENABLING DOCKER SERVICE..."
+sudo systemctl enable docker
+line
 echo "DO NOT FORGET TO REBOOT!!!"
 line
