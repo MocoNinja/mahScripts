@@ -27,6 +27,10 @@ line
 echo "INSTALLING PACKAGES..."
 sudo yum install -y vim docker htop git git-all golang java-1.8.0-openjdk groovy maven https curl mariadb-server mariadb php php-mysql
 line
+echo "CONFIGURING GIT"
+git config --global user.name MocoNinja
+git config --global user.email javiergonzaleztello@gmail.com
+line
 echo "ENABLING DOCKER SERVICE..."
 sudo systemctl enable docker
 line
