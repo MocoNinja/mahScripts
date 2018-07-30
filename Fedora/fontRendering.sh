@@ -1,5 +1,5 @@
 echo "Instalando renderizado de fuentes..."
-sudo dnf install freetype-freeworld
+sudo dnf install -y freetype-freeworld
 if [ -f /etc/fonts/local.conf ]; then
 echo "Borrando archivo existente de configuración..."
 sudo rm /etc/fonts/local.conf
