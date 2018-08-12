@@ -29,4 +29,9 @@ gimp inkscape blender krita pinta
 ## NET
 filezilla konversation ktorrent
 ## OFFICE
-libreoffice* texlive-full pandoc 
+### LIBREOFFICE
+libreoffice libreoffice-gtk3 libreoffice-style-*
+### FONTS
+fonts-crosextra-carlito fonts-crosextra-caladea
+### POPURRI
+texlive-full pandoc 
