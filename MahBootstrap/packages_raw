@@ -17,7 +17,7 @@ scala
 ### GROOVY
 groovy2
 ### WEB
-php7* apache2
+php7* apache2 libapache2-mod-php7.0
 ### MYSQL
 mysql-server mysql-client mysql-utilities mysql-workbench phpmyadmin
 ### MISC
