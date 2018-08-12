@@ -1,0 +1,28 @@
+## SHELL
+### VIM
+vim vim-doc vim-scripts ctags
+### GIT
+git git-doc gitk git-gui
+### UTILS
+ranger htop lm-sensors curl
+### GRAPHICS AND SHIT
+lolcat sl caca-utils toilet figlet mplayer
+## DEV
+### JAVA
+openjdk-8* ant-doc
+### GO
+golang
+### SCALA
+scala
+### GROOVY
+groovy2
+### WEB
+php7* apache2
+### MYSQL
+mysql-server mysql-client mysql-utilities mysql-workbench phpmyadmin
+### MISC
+build-essential
+## MEDIA
+audacious audacious-plugins audacity clementine handbrake smplayer
+## IMAGE
+gimp inkscape blender krita pinta
