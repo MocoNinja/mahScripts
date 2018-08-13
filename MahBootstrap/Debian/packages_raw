@@ -1,0 +1,39 @@
+## SHELL
+### VIM
+vim vim-doc vim-scripts ctags
+### GIT
+git git-doc gitk git-gui
+### UTILS
+ranger htop lm-sensors curl unrar rar p7zip-full
+### GRAPHICS AND SHIT
+lolcat sl caca-utils toilet figlet tmux neofetch
+## DEV
+### JAVA & GENERAL JDK
+openjdk-8* ant ant-doc gradle gradle-doc maven
+### SCALA
+scala
+### GROOVY
+groovy groovy-doc
+### PERL
+perl-doc
+### MISC
+build-essential
+### WEB
+php php-mysql php-xml php-sqlite3 php-curl apache2
+### MYSQL
+phpmyadmin mariadb-server mariadb-client
+## MEDIA
+audacious audacious-plugins audacity clementine handbrake smplayer
+## IMAGE
+gimp inkscape blender krita gwenview
+## NET
+filezilla konversation ktorrent
+## UTILS
+kate ark
+## OFFICE
+### LIBREOFFICE
+libreoffice libreoffice-gtk3 libreoffice-style-*
+### FONTS
+fonts-crosextra-carlito fonts-crosextra-caladea
+### POPURRI
+texlive-full pandoc okular calibre okular-extra-backends
