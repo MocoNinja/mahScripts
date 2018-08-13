@@ -1,0 +1,1 @@
+apt install aptitude aptitude-doc-en vim vim-doc vim-scripts ctags git git-doc gitk git-gui mesa-utils libgl1-mesa-dri libgl1-nvidia-glvnd-glx glx-alternative-mesa libgl1-mesa-dri libglx-mesa0 nvidia-driver nvidia-settings firmware-linux-nonfree xserver-xorg xfonts* build-essential plasma-desktop sddm dolphin konsole tmux
