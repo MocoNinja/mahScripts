@@ -5,8 +5,6 @@ vim vim-doc vim-scripts ctags
 git git-doc gitk git-gui
 ### UTILS
 ranger htop lm-sensors curl unrar rar p7zip-full
-### GRAPHICS AND SHIT
-lolcat sl caca-utils toilet figlet mplayer tmux neofetch
 ## DEV
 ### JAVA & GENERAL JDK
 openjdk-8* ant ant-doc gradle gradle-doc maven
@@ -16,14 +14,12 @@ scala
 groovy groovy-doc
 ### PERL
 perl-doc
-### GO
-golang
-### WEB
-php7* apache2 libapache2-mod-php7.0
-### MYSQL
-phpmyadmin mariadb-server mariadb-client
 ### MISC
 build-essential
+### WEB
+php php-mysql php-xml php-sqlite3 php-curl apache2
+### MYSQL
+phpmyadmin mariadb-server mariadb-client
 ## MEDIA
 audacious audacious-plugins audacity clementine handbrake smplayer
 ## IMAGE
