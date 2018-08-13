@@ -4,34 +4,38 @@ vim vim-doc vim-scripts ctags
 ### GIT
 git git-doc gitk git-gui
 ### UTILS
-ranger htop lm-sensors curl
+ranger htop lm-sensors curl unrar rar p7zip-full
 ### GRAPHICS AND SHIT
-lolcat sl caca-utils toilet figlet mplayer tmux
+lolcat sl caca-utils toilet figlet mplayer tmux neofetch
 ## DEV
-### JAVA
-openjdk-8* ant-doc
-### GO
-golang
+### JAVA & GENERAL JDK
+openjdk-8* ant ant-doc gradle gradle-doc maven
 ### SCALA
 scala
 ### GROOVY
-groovy2
+groovy groovy-doc
+### PERL
+perl-doc
+### GO
+golang
 ### WEB
 php7* apache2 libapache2-mod-php7.0
 ### MYSQL
-mysql-server mysql-client mysql-utilities mysql-workbench phpmyadmin
+phpmyadmin mariadb-server mariadb-client
 ### MISC
 build-essential
 ## MEDIA
 audacious audacious-plugins audacity clementine handbrake smplayer
 ## IMAGE
-gimp inkscape blender krita pinta
+gimp inkscape blender krita gwenview
 ## NET
 filezilla konversation ktorrent
+## UTILS
+kate ark
 ## OFFICE
 ### LIBREOFFICE
 libreoffice libreoffice-gtk3 libreoffice-style-*
 ### FONTS
 fonts-crosextra-carlito fonts-crosextra-caladea
 ### POPURRI
-texlive-full pandoc 
+texlive-full pandoc okular calibre okular-extra-backends
