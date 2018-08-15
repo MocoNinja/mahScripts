@@ -4,9 +4,9 @@ vim vim-doc vim-scripts ctags
 ### GIT
 git git-doc gitk git-gui
 ### UTILS
-ranger htop lm-sensors curl unrar rar p7zip-full
+ranger htop lm-sensors curl unrar rar p7zip-full gdebi synaptic mlocate
 ### GRAPHICS AND SHIT
-lolcat sl caca-utils toilet figlet tmux neofetch
+lolcat sl caca-utils toilet figlet tmux neofetch cowsay
 ## DEV
 ### JAVA & GENERAL JDK
 openjdk-8* ant ant-doc gradle gradle-doc maven
@@ -14,16 +14,18 @@ openjdk-8* ant ant-doc gradle gradle-doc maven
 scala
 ### GROOVY
 groovy groovy-doc
+### JS
+gjs nodejs
 ### PERL
 perl-doc
-### MISC
-build-essential
 ### WEB
 php php-mysql php-xml php-sqlite3 php-curl apache2
 ### MYSQL
 phpmyadmin mariadb-server mariadb-client
+### DEVOPS
+ansible
 ## MEDIA
-audacious audacious-plugins audacity clementine handbrake smplayer
+audacious audacious-plugins audacity clementine handbrake smplayer vlc* x264
 ## IMAGE
 gimp inkscape blender krita gwenview
 ## NET
@@ -37,3 +39,11 @@ libreoffice libreoffice-gtk3 libreoffice-style-*
 fonts-crosextra-carlito fonts-crosextra-caladea
 ### POPURRI
 texlive-full pandoc okular calibre okular-extra-backends
+### KDE SUITE
+kmail kleopatra kaddressbook kontact
+## SYS, LIBS y TAL
+build-essential fluid-soundfont-gs fluidsynth timidity
+## KDE POPURRI
+plasma*addons
+## GTK POPURRI
+gnome-disk-utility
