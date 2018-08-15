@@ -36,7 +36,7 @@ kate ark
 ### LIBREOFFICE
 libreoffice libreoffice-gtk3 libreoffice-style-*
 ### FONTS
-fonts-crosextra-carlito fonts-crosextra-caladea fonts-noto-color-emoji
+fonts-crosextra-carlito fonts-crosextra-caladea fonts-noto-color-emoji ttf-ancient-fonts-symbola
 ### POPURRI
 texlive-full pandoc okular calibre okular-extra-backends
 ### KDE SUITE
@@ -44,6 +44,6 @@ kmail kleopatra kaddressbook kontact
 ## SYS, LIBS y TAL
 build-essential fluid-soundfont-gs fluidsynth timidity
 ## KDE POPURRI
-plasma*addons
+plasma*addons kstart yakuake
 ## GTK POPURRI
 gnome-disk-utility
