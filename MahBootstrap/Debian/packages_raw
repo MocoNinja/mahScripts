@@ -36,7 +36,7 @@ kate ark
 ### LIBREOFFICE
 libreoffice libreoffice-gtk3 libreoffice-style-*
 ### FONTS
-fonts-crosextra-carlito fonts-crosextra-caladea
+fonts-crosextra-carlito fonts-crosextra-caladea fonts-noto-color-emoji
 ### POPURRI
 texlive-full pandoc okular calibre okular-extra-backends
 ### KDE SUITE
