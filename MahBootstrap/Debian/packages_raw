@@ -5,6 +5,8 @@ vim vim-doc vim-scripts ctags
 git git-doc gitk git-gui
 ### UTILS
 ranger htop lm-sensors curl unrar rar p7zip-full gdebi synaptic mlocate powerline powerline-doc
+### NET
+net-tools speedtest-cli ethtool
 ### GRAPHICS AND SHIT
 lolcat sl caca-utils toilet figlet tmux neofetch cowsay
 ## DEV
