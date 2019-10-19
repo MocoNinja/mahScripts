@@ -22,4 +22,5 @@ Xft.lcdfilter: lcddefault
 until_it_ends
 
 xrdb -merge /home/$USER/.Xresources
+fc-cache -f
 echo "Instalación exitosa!"
